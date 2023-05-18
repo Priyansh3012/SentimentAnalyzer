@@ -7,5 +7,9 @@ The flow of the project is as follows :-
 
 <1> Data Preprocessing (Data Cleaning) 
 <2> EDA (Exploratory Data Analysis) 
-<3> Feature Engineering (Lemmatization, CountVectorization, TfidfVectorizer)
-<4> Model Evaluation (Linear Regression , Decision Tree Regressor, XGB Regressor . Out of these 3, Linear Regression gave the best accuracy.) <5> Model Selection (Linear Regression)
+<3> Feature Engineering (Lemmatization, CountVectorization, TfidfVectorizer, Unigrams, Bigrams, Trigrams, 4-grams . At the end combination of unigrams + bigrams +     + Trigrams used.)
+<4> Model Evaluation (Decision Tree Classifier , Random Forest Classifier , Logistic Regression (Classifier). Out of these 3 Logistic Regression gave best results.  )
+<5> Hyperparameter Tuning ( using GridSearchCV)
+<6> Model Selection (Logistic Regression)
+
+NOTE : Plotly graphs and charts may not be rendered in the notebook.
