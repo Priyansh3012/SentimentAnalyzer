@@ -1,7 +1,7 @@
 # Movie Sentiment Analysis using NLP
 # NLP Project [PYTHON | PANDAS | NUMPY | Scikit-Learn | NLTK | Matplotlib | Seaborn | Plotly | Streamlit]
 
-Sentiment Analyzer is a website that uses Machine Learning and Natural Language Processing as its backbone to predict whether the comment or review entered for the movie, have a Positive Sentiment or a Negative Sentiment.
+Movie Sentiment Analysisis a website that uses Machine Learning and Natural Language Processing as its backbone to predict whether the comment or review entered for the movie, have a Positive Sentiment or a Negative Sentiment.
 
 The flow of the project is as follows :- 
 
